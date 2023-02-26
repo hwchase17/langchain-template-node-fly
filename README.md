@@ -14,6 +14,8 @@ Try it
 
 `$ curl -H 'Content-Type: application/json' -d '{"input": "hi there"}' 'http://localhost:8080/chat'`
 
+This template has been setup for using with VSCode. You can visit https://yarnpkg.com/getting-started/editor-sdks for setup instructions for other editors.
+
 ## Deploying to Fly
 
 Install flyctl on Mac OS
